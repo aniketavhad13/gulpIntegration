@@ -1,4 +1,0 @@
-function mySecondFunction()
-{
-    return second;
-}
