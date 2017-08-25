@@ -10,7 +10,7 @@
 
 6) after that "start gulp"
 
-7)and open browser and hit "https://localhost:3000".
+7) and open browser and hit "https://localhost:3000".
 
 
 
