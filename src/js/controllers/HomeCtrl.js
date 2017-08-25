@@ -2,6 +2,8 @@ angular.module('helloWorldApp')
 .controller('HomeCtrl',[
     '$scope',
     function($scope){
-        $scope.message = 'Aniket Avhad!';
+        $scope.amount = 1000;
+        $scope.todaysDate = new Date();
+        $scope.rollNo = 12345;
     }
-])
+]);
