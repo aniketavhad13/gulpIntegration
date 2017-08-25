@@ -1,11 +1,11 @@
 Installation
 
 To run the downloaded file one has to put the following steps one by one:-
-1. npm install command
-2. npm install -g gulp command
-3. gulp build command
-4. gulp start command
-and after going through the above commands one has to run in localhost:3000  
+1. npm install 
+2. npm install -g gulp 
+3. gulp build 
+4. gulp start 
+and after going through the above commands one has to run in browser http://localhost:3000  
 
 
 1)the gulpFile.js has the configuration of gulp.
